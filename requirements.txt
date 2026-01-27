@@ -7,3 +7,6 @@ fpdf
 streamlit-agraph
 wikipedia
 youtube-transcript-api==0.6.2
+newsapi-python
+duckduckgo-search
+googlesearch-python
