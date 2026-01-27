@@ -1,0 +1,9 @@
+streamlit
+supabase
+openai
+requests
+beautifulsoup4
+fpdf
+streamlit-agraph
+wikipedia
+youtube-transcript-api==0.6.2
